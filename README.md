@@ -2,6 +2,9 @@
 ## Contents
 <!-- - [Evaluation](#evaluation) -->
 - [arXiv Papers🔥](#arxiv-papers)
+- [SLAM and Pose Estimation](#slam-and-pose-estimation)
+- [NeRF and Pose Estimation](#nerf-and-pose-estimation)
+- [SFM/MVS and Pose Estimation](#sfm/mvs-and-pose-estimation)
 
 ## arXiv Papers
 ##### • [\[arXiv:2210.03437\]](https://arxiv.org/abs/2210.03437) KRF: Keypoint Refinement with Fusion Network for 6D Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2210.03437)
