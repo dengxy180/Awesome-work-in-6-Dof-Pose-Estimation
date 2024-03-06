@@ -13,7 +13,7 @@ _Irvin Haozhe Zhan, Yiheng Han, Yu-Ping Wang, Long Zeng, Yong-Jin Liu_
 ## Conference Papers
 
 ### 2023 3DV
-#### ##### • [2023 3DV] Learning to Estimate 6DoF Pose from Limited Data:A Few-Shot, Generalizable Approach using RGB Images. [\[PDF\]](https://arxiv.org/pdf/2306.07598.pdf)[\[Code\]](https://github.com/paulpanwang/Cas6D)
+##### • [2023 3DV] Learning to Estimate 6DoF Pose from Limited Data:A Few-Shot, Generalizable Approach using RGB Images. [\[PDF\]](https://arxiv.org/pdf/2306.07598.pdf)[\[Code\]](https://github.com/paulpanwang/Cas6D)
 
 ### 2022 ICRA
 ##### • [2022 ICRA] TP-AE: Temporally Primed 6D Object Pose Tracking with Auto-Encoders. [\[PDF\]](http://pure-oai.bham.ac.uk/ws/portalfiles/portal/164770788/_ICRA_TP_AE_6D_Object_Tracking.pdf)
