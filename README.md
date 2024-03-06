@@ -12,8 +12,16 @@ _Irvin Haozhe Zhan, Yiheng Han, Yu-Ping Wang, Long Zeng, Yong-Jin Liu_
 
 ## Conference Papers
 
-### 2023 3DV
-##### • [2023 3DV] Learning to Estimate 6DoF Pose from Limited Data:A Few-Shot, Generalizable Approach using RGB Images. [\[PDF\]](https://arxiv.org/pdf/2306.07598.pdf)[\[Code\]](https://github.com/paulpanwang/Cas6D)
+### 2024 3DV
+##### • [2024 3DV] Learning to Estimate 6DoF Pose from Limited Data:A Few-Shot, Generalizable Approach using RGB Images. [\[PDF\]](https://arxiv.org/pdf/2306.07598.pdf)[\[Code\]](https://github.com/paulpanwang/Cas6D)
+_Panwang Pan, Zhiwen Fan, Brandon Y. Feng, Peihao Wang, Chenxin Li, Zhangyang Wang_
+
+##### • [2024 3DV] LocPoseNet: Robust Location Prior for Unseen Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2211.16290.pdf)
+_Chen Zhao, Yinlin Hu, Mathieu Salzmann_
+
+### 2023 CVPR
+##### • [2023 CVPR] BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects.[\[PDF\]](https://arxiv.org/pdf/2303.14158.pdf)[\[Code\]](https://github.com/NVlabs/BundleSDF)[\[Project\]](https://bundlesdf.github.io/)
+_Bowen Wen, Jonathan Tremblay, Valts Blukis, Stephen Tyree, Thomas Muller, Alex Evans, Dieter Fox, Jan Kautz, Stan Birchfield_
 
 ### 2022 ICRA
 ##### • [2022 ICRA] TP-AE: Temporally Primed 6D Object Pose Tracking with Auto-Encoders. [\[PDF\]](http://pure-oai.bham.ac.uk/ws/portalfiles/portal/164770788/_ICRA_TP_AE_6D_Object_Tracking.pdf)
