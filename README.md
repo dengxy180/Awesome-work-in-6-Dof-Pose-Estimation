@@ -35,6 +35,22 @@ _Bowen Li, Jiashun Wang, Yaoyu Hu, Chen Wang, Sebastian Scherer_
 ##### • [2023 CVPR] BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects.[\[PDF\]](https://arxiv.org/pdf/2303.14158.pdf)[\[Code\]](https://github.com/NVlabs/BundleSDF)[\[Project\]](https://bundlesdf.github.io/)
 _Bowen Wen, Jonathan Tremblay, Valts Blukis, Stephen Tyree, Thomas Muller, Alex Evans, Dieter Fox, Jan Kautz, Stan Birchfield_
 
+##### • [2023 CVPR] Rigidity-Aware Detection for 6D Object Pose Estimation.[\[PDF\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Hai_Rigidity-Aware_Detection_for_6D_Object_Pose_Estimation_CVPR_2023_paper.pdf)
+_Yang Hai, Rui Song, Jiaojiao Li, Mathieu Salzmann, Yinlin Hu_
+
+##### • [2023 CVPR] Shape-Constraint Recurrent Flow for 6D Object Pose Estimation.[\[PDF\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Hai_Shape-Constraint_Recurrent_Flow_for_6D_Object_Pose_Estimation_CVPR_2023_paper.pdf)[\[Code\]](https://github.com/)
+_Yang Hai, Rui Song, Jiaojiao Li, Yinlin Hu_
+
+##### • [2023 CVPR] TTA-COPE: Test-Time Adaptation for Category-Level Object Pose Estimation/[\[PDF\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Lee_TTA-COPE_Test-Time_Adaptation_for_Category-Level_Object_Pose_Estimation_CVPR_2023_paper.pdf)
+_Taeyeop Lee, Jonathan Tremblay, Valts Blukis, Bowen Wen, Byeong-Uk Lee, Inkyu Shin, Stan Birchfield, In So Kweon, Kuk-Jin Yoon_
+
+##### • [2023 CVPR] HS-Pose: Hybrid Scope Feature Extraction for Category-Level Object Pose Estimation.[\[PDF\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_HS-Pose_Hybrid_Scope_Feature_Extraction_for_Category-Level_Object_Pose_Estimation_CVPR_2023_paper.pdf)
+_Linfang Zheng, Chen Wang, Yinghan Sun, Esha Dasgupta, Hua Chen, Aleš Leonardis, Wei Zhang, Hyung Jin Chang_
+
+### 2023 ICCV
+##### • [2023 ICCV] Deep Fusion Transformer Network with Weighted Vector-Wise Keypoints Voting for Robust 6D Object Pose Estimation.[\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_Deep_Fusion_Transformer_Network_with_Weighted_Vector-Wise_Keypoints_Voting_for_ICCV_2023_paper.pdf)
+_Jun Zhou, Kai Chen, Linlin Xu, Qi Dou, Jing Qin_
+
 ### 2023 ICRA
 ##### • [2023 ICRA] Parallel Inversion of Neural Radiance Fields for Robust Pose Estimation.
 
@@ -56,6 +72,12 @@ _JongMin Lee, Yohann Cabon, Romain Brégier, Sungjoo Yoo, Jerome Revaud_
 ##### • [2023 arxiv] GS-Pose: Category-Level Object Pose Estimation via Geometric and Semantic Correspondence.[\[PDF\]](https://arxiv.org/pdf/2311.13777.pdf)
 _Pengyuan Wang, Takuya Ikeda, Robert Lee, Koichi Nishiwaki_
 
+### 2023 WACV
+##### • [2023 WACV] COPE: End-to-end trainable Constant Runtime Object Pose Estimation.[\[PDF\]](https://openaccess.thecvf.com/content/WACV2023/papers/Thalhammer_COPE_End-to-End_Trainable_Constant_Runtime_Object_Pose_Estimation_WACV_2023_paper.pdf)
+_Stefan Thalhammer, Timothy Patten, Markus Vincze_
+
+##### • [2023 WACV] SD-Pose: Structural Discrepancy Aware Category-Level 6D Object Pose Estimation.[\[PDF\]](https://openaccess.thecvf.com/content/WACV2023/papers/Li_SD-Pose_Structural_Discrepancy_Aware_Category-Level_6D_Object_Pose_Estimation_WACV_2023_paper.pdf)
+_Guowei Li, Dongchen Zhu, Guanghui Zhang, Wenjun Shi, Tianyu Zhang, Xiaolin Zhang, Jiamao Li_
 
 ### 2022 NeurIPS
 ##### • [2022 NeurIPS] OnePose++: Keypoint-Free One-Shot Object Pose Estimation without CAD Models.[\[PDF\]](https://proceedings.neurips.cc/paper_files/paper/2022/file/e43f900f571de6c96a70d5724a0fb565-Paper-Conference.pdf)[\[Code\]](https://github.com/zju3dv/OnePose_Plus_Plus)[\[Project\]](https://zju3dv.github.io/onepose_plus_plus/)
@@ -89,6 +111,9 @@ _Yann Labbé, Lucas Manuelli, Arsalan Mousavian, Stephen Tyree, Stan Birchfield,
 _Guanglin Li, Yifeng Li, Zhichao Ye, Qihang Zhang, Tao Kong, Zhaopeng Cui, Guofeng Zhang_
 
 ##### • [2022 arxiv] Video based Object 6D Pose Estimation using Transformers.[\[PDF\]](https://arxiv.org/pdf/2210.13540.pdf)
+_Apoorva Beedu, Huda Alamri, Irfan Essa_
+
+##### • [2022 arxiv] Video based Object 6D Pose Estimation using Transformers.[\[PDF\]](https://arxiv.org/pdf/2210.13540.pdf)[\[Code\]](https://github.com/ApoorvaBeedu/VideoPose)
 _Apoorva Beedu, Huda Alamri, Irfan Essa_
 
 [\[back to top\]](#contents)
@@ -162,11 +187,23 @@ _Fengjun Mu; Rui Huang; Ao Luo; Xin Li; Jing Qiu; Hong Cheng_
 ##### • [2020 ICRA] Self-Supervised 6D Object Pose Estimation for Robot Manipulation. [\[arXiv\]](https://arxiv.org/pdf/1909.10159.pdf) [\[Video\]](https://youtu.be/W1Y0Mmh1Gd8)
  _Xinke Deng, Yu Xiang, Arsalan Mousavian, Clemens Eppner, Timothy Bretl, Dieter Fox_
  
- ##### • [2020 ICRA] Robust 6D Object Pose Estimation by Learning RGB-D Features. [\[arXiv\]](https://arxiv.org/abs/2003.00188)
+##### • [2020 ICRA] Robust 6D Object Pose Estimation by Learning RGB-D Features. [\[arXiv\]](https://arxiv.org/abs/2003.00188)
  _Meng Tian, Liang Pan, Marcelo H Ang Jr, Gim Hee Lee_
  
- ##### • [2020 ICRA] Single Shot 6D Object Pose Estimation. [\[arXiv\]](https://www.researchgate.net/publication/340941501_Single_Shot_6D_Object_Pose_Estimation)
+##### • [2020 ICRA] Single Shot 6D Object Pose Estimation. [\[arXiv\]](https://www.researchgate.net/publication/340941501_Single_Shot_6D_Object_Pose_Estimation)
  _Kilian Kleeberger, Marco F. Huber_
  
- ##### • [2020 ICRA] 6D Object Pose Regression Via Supervised Learning on Point Clouds. [\[arXiv\]](https://arxiv.org/pdf/2001.08942.pdf)[\[Code\]](https://github.com/GeeeG/CloudPose)
+##### • [2020 ICRA] 6D Object Pose Regression Via Supervised Learning on Point Clouds. [\[arXiv\]](https://arxiv.org/pdf/2001.08942.pdf)[\[Code\]](https://github.com/GeeeG/CloudPose)
  _Ge Gao, Mikko Lauri, Yulong Wang, Xiaolin Hu, Jianwei Zhang and Simone Frintrop_
+
+## Journal Papers
+
+### 2023 IEEE Robotics and Automation Letters
+##### • [2023 RA-L] i2c-net: Using Instance-Level Neural Networks for Monocular Category-Level 6D Pose Estimation.[\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10027166)
+_Alberto Remus, Salvatore D'Avella, Francesco Di Felice, Paolo Tripicchio, Carlo Alberto Avizzano_
+
+##### • [2023 RA-L] Imitrob: Imitation Learning Dataset for Training and Evaluating 6D Object Pose Estimators.[\[PDF\]](https://ieeexplore.ieee.org/abstract/document/10077123)
+_Jiri Sedlar, Karla Stepanova, Radoslav Skoviera, Jan K. Behrens, Matus Tuna, Gabriela Sejnova, Josef Sivic_
+
+##### • [2023 RA-L] TGF-Net: Sim2Real Transparent Object 6D Pose Estimation Based on Geometric Fusion.[\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10103597)
+_Haixin Yu, Shoujie Li, Houde Liu, Chongkun Xia, Wenbo Ding, Bin Liang_
