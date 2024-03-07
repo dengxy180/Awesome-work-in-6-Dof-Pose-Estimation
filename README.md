@@ -16,7 +16,6 @@ _Irvin Haozhe Zhan, Yiheng Han, Yu-Ping Wang, Long Zeng, Yong-Jin Liu_
 ##### • [2024 CVPR] SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2311.15707.pdf)[\[Code\]](https://github.com/JiehongLin/SAM-6D)
 _Jiehong Lin, Lihua Liu, Dekun Lu, Kui Jia_
 
-c
 ##### • [2024 3DV] Learning to Estimate 6DoF Pose from Limited Data:A Few-Shot, Generalizable Approach using RGB Images. [\[PDF\]](https://arxiv.org/pdf/2306.07598.pdf)[\[Code\]](https://github.com/paulpanwang/Cas6D)
 _Panwang Pan, Zhiwen Fan, Brandon Y. Feng, Peihao Wang, Chenxin Li, Zhangyang Wang_
 
