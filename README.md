@@ -47,9 +47,27 @@ _Taeyeop Lee, Jonathan Tremblay, Valts Blukis, Bowen Wen, Byeong-Uk Lee, Inkyu S
 ##### • [2023 CVPR] HS-Pose: Hybrid Scope Feature Extraction for Category-Level Object Pose Estimation.[\[PDF\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_HS-Pose_Hybrid_Scope_Feature_Extraction_for_Category-Level_Object_Pose_Estimation_CVPR_2023_paper.pdf)
 _Linfang Zheng, Chen Wang, Yinghan Sun, Esha Dasgupta, Hua Chen, Aleš Leonardis, Wei Zhang, Hyung Jin Chang_
 
+##### • [2023 CVPR] Shape-Constraint Recurrent Flow for 6D Object Pose Estimation.
+_Yang Hai, Rui Song, Jiaojiao Li, Yinlin Hu_
+
 ### 2023 ICCV
 ##### • [2023 ICCV] Deep Fusion Transformer Network with Weighted Vector-Wise Keypoints Voting for Robust 6D Object Pose Estimation.[\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_Deep_Fusion_Transformer_Network_with_Weighted_Vector-Wise_Keypoints_Voting_for_ICCV_2023_paper.pdf)
 _Jun Zhou, Kai Chen, Linlin Xu, Qi Dou, Jing Qin_
+
+##### • [2023 ICCV] Deep Active Contours for Real-time 6-DoF Object Tracking.[\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Deep_Active_Contours_for_Real-time_6-DoF_Object_Tracking_ICCV_2023_paper.pdf)[\[Code\]](https://github.com/WangLongZJU/DeepAC)[\[Project\]](https://zju3dv.github.io/deep_ac/)
+_Long Wang, Shen Yan, Jianan Zhen, Yu Liu, Maojun Zhang, Guofeng Zhang, Xiaowei Zhou_
+
+##### • [2023 ICCV] Query6DoF: Learning Sparse Queries as Implicit Shape Prior for Category-Level 6DoF Pose Estimation.[\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Query6DoF_Learning_Sparse_Queries_as_Implicit_Shape_Prior_for_Category-Level_ICCV_2023_paper.pdf)[\[Code\]]( https://github.com/hustvl/Query6DoF)
+_Ruiqi Wang, Xinggang Wang, Te Li, Rong Yang, Minhong Wan, Wenyu Liu_
+
+##### • [2023 ICCV] VI-Net: Boosting Category-level 6D Object Pose Estimation via Learning Decoupled Rotations on the Spherical Representations.[\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Lin_VI-Net_Boosting_Category-level_6D_Object_Pose_Estimation_via_Learning_Decoupled_ICCV_2023_paper.pdf)[\[Code\]](https://github.com/JiehongLin/VI-Net)
+_Jiehong Lin, Zewei Wei, Yabin Zhang, Kui Jia_
+
+##### • [2023 ICCV]　Center-Based Decoupled Point-cloud Registration for 6D Object Pose Estimation.[\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Jiang_Center-Based_Decoupled_Point-cloud_Registration_for_6D_Object_Pose_Estimation_ICCV_2023_paper.pdf)[\[Code\]](https://github.com/Jiang-HB/CenterReg)
+_Haobo Jiang, Zheng Dang, Shuo Gu, Jin Xie, Mathieu Salzmann, Jian Yang_
+
+##### • [2023 ICCV] Pseudo Flow Consistency for Self-Supervised 6D Object Pose Estimation.[\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Hai_Pseudo_Flow_Consistency_for_Self-Supervised_6D_Object_Pose_Estimation_ICCV_2023_paper.pdf)
+_Yang Hai, Rui Song, Jiaojiao Li, David Ferstl, Yinlin Hu_
 
 ### 2023 ICRA
 ##### • [2023 ICRA] Parallel Inversion of Neural Radiance Fields for Robust Pose Estimation.
@@ -59,6 +77,9 @@ _Linghao Chen, Yunzhou Song, Hujun Bao, Xiaowei Zhou_
 
 ##### • [2023 ICRA] Diff-DOPE: Differentiable Deep Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2310.00463.pdf)[\[Code\]](https://github.com/NVlabs/diff-dope)[\[Project\]](https://diffdope.github.io/)
 _Jonathan Tremblay, Bowen Wen, Valts Blukis, Balakumar Sundaralingam, Stephen Tyree, Stan Birchfield_
+
+##### • [2023 ICRA] RFFCE: Residual Feature Fusion and Confidence Evaluation Network for 6DoF Pose Estimation.[\[PDF\]](https://ieeexplore.ieee.org/abstract/document/10160448)
+_Qiwei Meng, Shanshan Ji, Shiqiang Zhu, Tianlei Jin, Te Li, Jason Gu, Wei Song_
 
 ### 2023 others
 ##### • [2023 CoRL] SA6D: Self-Adaptive Few-Shot 6D Pose Estimator for Novel and Occluded Objects.[\[PDF\]](https://openreview.net/pdf?id=gdkKi_F55h)
